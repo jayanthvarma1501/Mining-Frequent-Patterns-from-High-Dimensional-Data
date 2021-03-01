@@ -1,0 +1,3 @@
+Instructions to run the code: 
+1.Upload  dataset and copy paste the path in file reader. 
+2. Change length of dataset(if needed)  and change Minsup range accordingly
